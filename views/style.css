@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    height:100vh;
+}
+header{
+    background-color: rgb(65,60,118);
+    color:white;
+    padding:10px 20px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height:10%
+}
+.body{
+    height:90%;
+}
+a{
+    color:white;
+    padding:5px;
+}

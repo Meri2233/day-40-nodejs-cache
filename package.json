@@ -1,0 +1,11 @@
+{
+  "name": "day-40-nodejs-cache",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
